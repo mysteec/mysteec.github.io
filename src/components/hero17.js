@@ -46,7 +46,7 @@ const Hero17 = (props) => {
             <span className="thq-body-small">
              
                 <Fragment>
-                  <span className="hero17-text5">Leave a Message !</span>
+                  <span className="hero17-text5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-Yzk5qHWPmg9ZbvTC2X6NAF7DbIDzgEaRAuKq6FY_x7F1SQ/viewform?usp=dialog" target="_blank">Leave a Message !</a></span>
                 </Fragment>
               
             </span>
