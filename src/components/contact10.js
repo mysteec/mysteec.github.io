@@ -97,7 +97,7 @@ Contact10.defaultProps = {
   location2ImageSrc:
     'https://images.unsplash.com/photo-1574740981348-fe6e45e9a294?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NDA4ODM2N3w&ixlib=rb-4.0.3&q=80&w=1080',
   location1ImageSrc:
-    'https://images.unsplash.com/photo-1652811631129-bed15ba35d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0NDA4ODM2OHw&ixlib=rb-4.0.3&q=80&w=1080',
+    'https://notopedia-uploads.s3.us-east-2.amazonaws.com/clg-photo/pic-202012100657369630.png',
   location1Description: undefined,
   location2ImageAlt: 'Email Icon',
   heading1: undefined,

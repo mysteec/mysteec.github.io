@@ -20,7 +20,7 @@ const Steps2 = (props) => {
             </p>
             <div className="steps2-actions">
               <button className="thq-button-animated thq-button-filled steps2-button">
-                <span className="thq-body-small">Click To Spread Kindness</span>
+                <span className="thq-body-small"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeI7o9xhO1hW5c5EFH5qx4uIppBxtR9w8vTtHthFBrmw1X01g/viewform?usp=sharing" target="_blank">Click To Spread Kindness</a></span>
               </button>
             </div>
           </div>
