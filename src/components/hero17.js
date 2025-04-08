@@ -33,15 +33,8 @@ const Hero17 = (props) => {
           </p>
         </div>
         <div className="hero17-actions">
-          <button className="thq-button-filled hero17-button1">
-            <span className="thq-body-small">
-              
-                <Fragment>
-                  <span className="hero17-text6">Sign Up</span>
-                </Fragment>
-              
-            </span>
-          </button>
+          
+         
           <button className="thq-button-outline hero17-button2">
             <span className="thq-body-small">
              
